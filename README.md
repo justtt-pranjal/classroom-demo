@@ -1,4 +1,4 @@
 # classroom-demo
-THIS IS MY GIT REPOSITORY.
+THIS IS MY FIRST GIT REPOSITORY.
 <br>
 Arthor: Pranjal Upadhyay
